@@ -10,3 +10,4 @@ environments:
   Testing: "default-testing"
   Staging: "default-staging"
   Production: "default-prod"
+useLocalFlow: true
